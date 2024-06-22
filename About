@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>रवि Nishayar - व्यक्तिगत वेबपेज</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            background-color: white;
+            margin: 20px auto;
+            max-width: 800px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>रवि Nishayar</h1>
+</header>
+
+<main>
+    <section id="about">
+        <h2>मेरे बारे में</h2>
+        <p>रवि Nishayar बिहार में पच्छिम चंपारण में रहते हैं। ये एक कवि हैं, इनको कविता पढ़ने और लिखने में काफी रुचि है। इन्होंने अपनी प्राथमिक शिक्षा अपने गाँव से पूरी की। ये नेटवर्क पर नयी चीज़ें खोजने में काफी रुचि रखते हैं।</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 रवि Nishayar</p>
+</footer>
+
+</body>
+</html>
